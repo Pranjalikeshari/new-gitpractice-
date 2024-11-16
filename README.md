@@ -1,3 +1,4 @@
 # new-gitpractice-
 this is my new git practice
-hbb
+hbb  
+designing for othjer
